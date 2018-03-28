@@ -1,2 +1,2 @@
-# vue2-spinner
+# vue-another-spinner
 vuejs simple spinner 
