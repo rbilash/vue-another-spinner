@@ -1,0 +1,24 @@
+{
+  "name": "vue-another-spinner",
+  "version": "1.0.0",
+  "description": "configurable yet simple view spinner",
+  "main": "Spinner.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbilash/vue-another-spinner.git"
+  },
+  "keywords": [
+    "vuejs",
+    "spinner",
+    "loading"
+  ],
+  "author": "Ruslan Bilash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbilash/vue-another-spinner/issues"
+  },
+  "homepage": "https://github.com/rbilash/vue-another-spinner#readme"
+}
