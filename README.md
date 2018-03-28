@@ -1,4 +1,4 @@
-# vue2-spinner
+# vue-another-spinner
 
 Another Vue.js spinner. 
 Configurable. Can act as inside specific component container and also as a global window overlay.
